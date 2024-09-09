@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hello 2024"
+date:       2024-09-09 12:00:00
+author:     "sWinds"
+header-style: "text"
+catalog: true
+tags:
+    - Web
+---
+
+> “Yeah It's on. ”
+
+
+sWinds 的 Blog 就这么开通了。
